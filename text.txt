@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is E291-84AC
+
+ Directory of C:\Tarun\MyProject
+
+03/30/2018  09:18 PM    <DIR>          .
+03/30/2018  09:18 PM    <DIR>          ..
+03/30/2018  09:18 PM                 0 text.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  18,001,383,424 bytes free
